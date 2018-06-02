@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music app</string>
+    <string name="top_songs">Utwory tygodnia</string>
+    <string name="album">Album</string>
+    <string name="genre">Genre</string>
+    <string name="style">Style</string>
+    <string name="favorites">favourites</string>
+    <string name="favourites">Favourites</string>
+</resources>
